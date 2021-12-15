@@ -1,0 +1,22 @@
+<html>
+    <title>LEGO</title>
+    <body>
+        <header>
+        </header>
+        <main>
+            <h1>На этом сайте мы будем разговаривать о конструкторе "LEGO"</h1>
+            <p>LEGO это</p>
+            <p>LEGO появилось</p>
+            <h2>Узнать Больше</h2>
+            <h2>Конструктор LEGO City</h2>
+            <h2>Конструктор LEGO VIDIYO</h2>
+            <h2>Конструктор LEGO Friends</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/1000px-LEGO_logo.svg.png">
+            <img src="https://images.wbstatic.net/c516x688/new/51470000/51471078-1.jpg">
+            <img src="https://www.exoforce.ru/image/products/60200.3.big.jpg">
+            <img src="https://images.satom.ru/i3/firms/28/5759/5759591/pic_7141da489aa4f84_1024x3000.jpg">
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
